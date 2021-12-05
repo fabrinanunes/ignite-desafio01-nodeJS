@@ -13,3 +13,6 @@ O desafio consiste na criação de uma aplicação para gerenciar tarefas (e
 - Excluir um *todo*;
 
 Tudo isso para cada usuário em específico (o `username` será passado pelo header).
+
+## 👩‍💻 Resultado
+<img src="https://user-images.githubusercontent.com/84260347/144760310-0b0422ff-2f30-45c3-89a8-fa410de85224.png">
